@@ -1,0 +1,20 @@
+<?php
+
+$definition["class"]=array("value"=>"The class defines the properties of the object and the methods used to control the object's behavior.","url"=>"search.php?keywords=class");
+ $definition["collection"]=array("value"=>"An object's position in the collection can change whenever a change occurs in the collection","url"=>"search.php?keywords=collection");
+ $definition["constant"]=array("value"=>"A named item that retains a constant value throughout the execution of a program.","url"=>"search.php?keywords=constant");
+ $definition["expression"]=array("value"=>"An expression can perform a calculation, manipulate characters, or test data.","url"=>"search.php?keywords=expression");
+ $definition["null"]=array("value"=>"null is the result of: ","url"=>"search.php?keywords=null");
+ $definition["pi"]=array("value"=>"pi is a mathematical constant equal to approximately 3.1415926535897932","url"=>"search.php?keywords=pi");
+ $definition["procedure"]=array("value"=>"For example, Function and Sub are types of procedures.","url"=>"search.php?keywords=procedure");
+ $definition["property"]=array("value"=>"property define object characteristics such as size","url"=>"search.php?keywords=property");
+ $definition["public"]=array("value"=>"Variables declared using the public Statement are visible to all procedures.","url"=>"search.php?keywords=public");
+ $definition["variable"]=array("value"=>"Each variable has a name that uniquely identifies it within its level of scope.","url"=>"search.php?keywords=variable");
+ $definition["array"]=array("value"=>"Each element of an array has a unique identifying index number.","url"=>"search.php?keywords=array");
+ $definition["module"]=array("value"=>"A module containing the definition of a class (its property and method definitions).","url"=>"search.php?keywords=module");
+ $definition["comment"]=array("value"=>"a comment line generally starts with an apostrophe (').","url"=>"search.php?keywords=comment");
+ $definition["operator"]=array("value"=>"These operators include less than (<), less than or equal to (<=).","url"=>"search.php?keywords=operator");
+ $definition["object"]=array("value"=>"A type of object exposed by an application.","url"=>"search.php?keywords=object");
+
+
+?>

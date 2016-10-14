@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+#root{margin:0 auto;width:750px; text-align:center; align-content:center}
+body{margin:0 auto; text-align:center;}
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: none;}
+a:active {text-decoration: none;}
+#top{width:750px; margin-top:20px;margin-bottom:20px;}
+#mid{width:500px; text-align:left;margin:0 auto;}
+#midd{width:600px; text-align:center;margin:0 auto;}
+#word{width:72PX; float:left; clear:left;}
+#word2{width:72PX; float:left; }
+#zhong{align-content:center;text-align:center;width:250px;}
+#ccc{ float:right}
+
